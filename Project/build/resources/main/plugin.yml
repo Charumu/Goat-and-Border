@@ -1,0 +1,14 @@
+name: WIP
+version: '1.0-SNAPSHOT'
+main: com.charu.server.Main
+api-version: 1.19
+commands:
+  rules:
+  clearchat:
+  vanish:
+  heal:
+  discord:
+  tutorial:
+  profile:
+  hologramreload:
+  spawngoat:
